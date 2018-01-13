@@ -30,7 +30,7 @@
     <source-file src="src/android/AlChannelInfoTask.java" target-dir="src/com/applozic/phonegap/"/>
     <source-file src="src/android/MessageParamsModel.java" target-dir="src/com/applozic/phonegap/"/>
     <source-file src="src/android/applozic-settings.json" target-dir="assets"/>
-    <source-file src="src/android/provider_paths.xml" target-dir="res/xml"/>
+    <!--<source-file src="src/android/provider_paths.xml" target-dir="res/xml"/>-->
 
     <framework src="src/android/build.gradle" custom="true" type="gradleReference" />
 
